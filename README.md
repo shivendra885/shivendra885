@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 -🎓 B. Tech(2023) Undergraduate in Information Technology in GL Bajaj Institute of Technology and Management, AKTU.
 
