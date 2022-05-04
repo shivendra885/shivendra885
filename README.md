@@ -6,11 +6,13 @@
 
 -🎓 B. Tech(2023) Undergraduate in Information Technology in GL Bajaj Institute of Technology and Management, AKTU.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+-🛠 Proficient in Web Development and Backend Technologies including React, NodeJs, MongoDB, Google Cloud, C, C++ etc and polishing my DSA skills.
 
 - 📫Reach me at **rajputshivendra885@gmail.com** 
 
-### My Socials: 
+-  Qwiklab's profile [Google CLoud](https://www.cloudskillsboost.google/public_profiles/def26410-db18-43ca-9025-77c924d50e20)
+
+## Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-Shivendra-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivendra-pratap-singh-609b261b3/) [![Instagram](https://img.shields.io/badge/-Shivendra-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shivendra4907/) [![Facebook](https://img.shields.io/badge/-Shivendra-3b5999?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027329721730)
 
@@ -33,15 +35,14 @@
 
 <br/>
 
+### My Projects:
+
+- Voice chat Application
+- News App
 
 
 
-## Connect with me:
-<p align="left">
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/shivendra4907/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-</p>
 
 
