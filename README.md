@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivendra Pratap Singh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
@@ -37,7 +37,7 @@
 
 <a href = "https://www.linkedin.com/in/shivendra-pratap-singh-609b261b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/shivendra4907/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100027329721730"><img src="https://img.shields.io/badge/-Sarthak-3b5999?style=flat&logo=facebook&logoColor=white"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100027329721730"><img src="https://img.shields.io/badge/style=flat&logo=facebook&logoColor=white"/></a>
 
 </p>
 
