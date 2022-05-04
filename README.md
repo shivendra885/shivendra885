@@ -1,6 +1,7 @@
  ###                                            Hi 👋This is Shivendra Pratap Singh.✨
-I am an Web Developer possessing proficient skills
-<!--
+### About me
+ 🎓 B. Tech(2023) Undergraduate in Information Technology in GL Bajaj Institute of Technology and Management, AKTU. 
+ 📫 Reach me at rajputshivendra885@gmail.com or through linkedin Shivendra Pratap Singh
 **shivendra885/shivendra885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
