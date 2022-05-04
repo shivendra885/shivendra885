@@ -8,7 +8,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📫Reach me at **rajputshivendra885@gmail.com**
+- 📫Reach me at **rajputshivendra885@gmail.com** 
+
+### My Socials: 
+
+[![Linkedin](https://img.shields.io/badge/-Sarthak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivendra-pratap-singh-609b261b3/) [![Instagram](https://img.shields.io/badge/-Sarthak-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shivendra4907/) [![Facebook](https://img.shields.io/badge/-Sarthak-3b5999?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027329721730)
 
 ## 🚀 Languages and Tools:
 
@@ -35,9 +39,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shivendra-pratap-singh-609b261b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/shivendra4907/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100027329721730"><img src="https://img.shields.io/badge/style=flat&logo=facebook&logoColor=white"/></a>
 
 </p>
 
