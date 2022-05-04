@@ -12,7 +12,7 @@
 
 ### My Socials: 
 
-[![Linkedin](https://img.shields.io/badge/-Sarthak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivendra-pratap-singh-609b261b3/) [![Instagram](https://img.shields.io/badge/-Sarthak-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shivendra4907/) [![Facebook](https://img.shields.io/badge/-Sarthak-3b5999?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027329721730)
+[![Linkedin](https://img.shields.io/badge/-Shivendra-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivendra-pratap-singh-609b261b3/) [![Instagram](https://img.shields.io/badge/-Shivendra-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shivendra4907/) [![Facebook](https://img.shields.io/badge/-Shivendra-3b5999?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027329721730)
 
 ## 🚀 Languages and Tools:
 
