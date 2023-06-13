@@ -36,6 +36,7 @@
 
 ### My Projects:
 
+- Fake News Detection
 - Voice chat Application
 - News App
 
