@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
--🎓 B. Tech(2023) Graduate in Information Technology in GL Bajaj Institute of Technology and Management, AKTU.
+-🎓 B. Tech(2023) Graduate in Information Technology From GL Bajaj Institute of Technology and Management, AKTU.
 
 -🛠 Proficient in Web Development and Backend Technologies including React, NodeJs, MongoDB, Google Cloud, C, C++ etc.
 - 📫Reach me at **shivendrarbl885@gmail.com** 
