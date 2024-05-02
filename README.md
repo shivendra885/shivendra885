@@ -19,7 +19,9 @@
 
 <p align="left"> 
     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
+     <span style="margin-right: 10px;"></span>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+     <span style="margin-right: 10px;"></span>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -36,12 +38,10 @@
 
 ### My Projects:
 
+- Weather App
 - Fake News Detection
 - Voice chat Application
 - News App
-- Survival Game 3D
-
-
 
 
 
