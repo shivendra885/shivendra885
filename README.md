@@ -6,7 +6,7 @@
 
 -🎓 B. Tech(2023) Graduate in Information Technology From GL Bajaj Institute of Technology and Management, AKTU.
 
--🛠 Proficient in Mobile Development (iOS & Android) and Backend Technologies including React, NodeJs, MongoDB, Google Cloud, C, C++ etc.
+-🛠 Proficient in Mobile Development (iOS & Android) and Backend Technologies including Swift, UiKit, Java, MongoDB, Google Cloud, C, C++ etc.
 - 📫Reach me at **shivendrarbl885@gmail.com** 
 
 -  Qwiklab's profile [Google CLoud](https://www.cloudskillsboost.google/public_profiles/def26410-db18-43ca-9025-77c924d50e20)
@@ -18,6 +18,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
+    <a href="https://developer.apple.com/documentation/uikit" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ios-uikit.png"/> </a>
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
