@@ -6,7 +6,7 @@
 
 -🎓 B. Tech(2023) Graduate in Information Technology From GL Bajaj Institute of Technology and Management, Greater Noida [AKTU, Lucknow].
 
--🛠 Proficient in Mobile Development (iOS & Android) and Backend Technologies including Swift, UiKit, Java, Firebase, Google Cloud, C, C++ etc.
+-🛠 Proficient in Mobile Development (iOS & Android) including Swift, UiKit, Java, Firebase, Google Cloud, C, C++ etc.
 - 📫Reach me at **shivendrarbl885@gmail.com** 
 
 -  Qwiklab's profile [Google CLoud](https://www.cloudskillsboost.google/public_profiles/def26410-db18-43ca-9025-77c924d50e20)
