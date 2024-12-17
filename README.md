@@ -48,8 +48,8 @@
 
 ### My Projects:
 
-- Weather App
-- Fake News Detection
+- My Property Map
+- Connect Meds 
 - Voice chat Application
 - News App
 
